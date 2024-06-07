@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @os01ri
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a flutter developer
 - 📫 How to reach me osamahm2001@gmail.com
 
 <!---
